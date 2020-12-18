@@ -93,7 +93,6 @@ app.delete("/api/notes/:id", function(req, res) {
     // error handling
   } catch (err) {
     throw err;
-    console.log(err);
   }
 });
 // HTML GET Requests

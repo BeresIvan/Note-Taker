@@ -14,22 +14,21 @@ Application should allow users to delete previously saved notes.
 
  
 ## Table of Contents 
-* The project repository: https://github.com/BeresIvan/Teamgenerator
-* The README.MD file with all the instructions: https://github.com/BeresIvan/Teamgenerator/blob/main/README.md
-* The TEMPLATES folder contains all the HTML files with the code. https://github.com/BeresIvan/Teamgenerator/tree/main/templates
-* The LIB folder contains: The employee.js, engineer.js, intern.js and manager.js files. These files contain all of the functionality of the pages: https://github.com/BeresIvan/Teamgenerator/tree/main/lib
-* The TEST folder contains all the test.js files: https://github.com/BeresIvan/Teamgenerator/tree/main/test
-* The IMAGES folder contains all screenshots and the demo video : https://github.com/BeresIvan/Teamgenerator/tree/main/images
+* The project repository: https://github.com/BeresIvan/Note-Taker
+* The README.MD file with all the instructions: https://github.com/BeresIvan/Note-Taker/blob/main/README.md
+* The PUBLIC folder contains all the HTML files with the code. https://github.com/BeresIvan/Note-Taker/tree/main/public
+* The ASSETS folder contains: The style.css file and the index.js file. These files make up the look apperance of the page: https://github.com/BeresIvan/Note-Taker/tree/main/public/assets
+* The DB folder contains all the db.json file: https://github.com/BeresIvan/Note-Taker/tree/main/db
+* The server.js gives allt he functionality to our app.
+* The package.json and package-lock.json containes all of our npm packages. 
 
 ## Current Status and Updates
-* The application was tested and verified the error free status.
-    -suites tested 4
-    -17 passed tests
-
+* The app has been deployed on heroku and it is wotking with out issues.
 https://github.com/BeresIvan/Teamgenerator/issues/2#issue-763360874
  
 ## Installation  
-- Go to the repository page by following the link: 
+- Go to the heroku page by following the link: https://git.heroku.com/lit-caverns-58040.git to use the app.
+- to further develope go to the github repository: https://github.com/BeresIvan/Note-Taker
 - Clone the repository using the "git clone" command in the command line.
 - Open the files in visual studio code using the ". code" command in the command line.
 - Start the app by using the "node app.js" command
@@ -47,3 +46,4 @@ The project was created by using:
 * [NPM](https://www.npmjs.com/)
 * [Jest](https://jestjs.io/)
 * [Screencastify](https://www.screencastify.com)
+* [heroku](https://www.heroku.com)
